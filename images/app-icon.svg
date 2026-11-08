@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  The application icon. A small figure with green hair and a blue body, drawn
+  on a grid of square pixels the way a 16-colour VGA game would - but drawn
+  here, not taken from the game: no original artwork goes into this repository.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <rect width="16" height="16" fill="#000000"/>
+  <g fill="#00b300">
+    <rect x="6" y="2" width="4" height="1"/>
+    <rect x="5" y="3" width="6" height="1"/>
+    <rect x="5" y="4" width="2" height="1"/>
+    <rect x="9" y="4" width="2" height="1"/>
+  </g>
+  <g fill="#f0d0d0">
+    <rect x="7" y="4" width="2" height="1"/>
+    <rect x="6" y="5" width="4" height="2"/>
+  </g>
+  <g fill="#000000">
+    <rect x="7" y="5" width="1" height="1"/>
+    <rect x="9" y="5" width="1" height="1"/>
+  </g>
+  <g fill="#4040e0">
+    <rect x="5" y="7" width="6" height="4"/>
+    <rect x="4" y="8" width="1" height="3"/>
+    <rect x="11" y="8" width="1" height="3"/>
+    <rect x="6" y="11" width="2" height="3"/>
+    <rect x="9" y="11" width="2" height="3"/>
+  </g>
+  <g fill="#f0d0d0">
+    <rect x="6" y="14" width="2" height="1"/>
+    <rect x="9" y="14" width="2" height="1"/>
+  </g>
+</svg>
