@@ -1,0 +1,9 @@
+{
+  "level": {"pack": "level009", "index": 1},
+  "name": "Just dig! - one digger under the hatch, the way the level is meant to be solved",
+  "seed": 49374,
+  "frames": 1500,
+  "assignments": [
+    {"frame": 71, "skill": "digger", "x": 738, "y": 65}
+  ]
+}
