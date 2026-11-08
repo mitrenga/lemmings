@@ -1,0 +1,18 @@
+{
+    "standalone": [
+        "svision/js/platform/canvas2D/vga/vgaVideoRAM.js",
+        "svision/js/platform/canvas2D/vga/vgaPalette.js",
+        "lem/palette.js",
+        "lem/graphicsSet.js",
+        "lem/lemmingSprites.js",
+        "lem/lemming.js",
+        "lem/levelBuilder.js",
+        "lem/sounds.js",
+        "lem/lemmingsGame.js",
+        "lem/panel.js",
+        "gameWorker.js",
+        "svision/js/audio/chip/opl2.js",
+        "lem/soundImage.js",
+        "lemSoundProcessor.js"
+    ]
+}
